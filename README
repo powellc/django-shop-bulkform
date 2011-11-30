@@ -1,0 +1,11 @@
+Django Shop BulkForm plugin
+============================
+
+All this plugin does is give you access to a "bulk" order form that 
+lists all the products in your site with quantity boxes and adds 
+them to the cart on submission. Not rocket science.
+
+It also may not work for every shop. If you have more than 25 or so 
+items, a page that lists them all could get unwieldy. But if you 
+only have a small number of items and want an easy view to let 
+people add multiple products at the same time, this is your plugin.
